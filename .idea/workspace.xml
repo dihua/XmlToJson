@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d382275e-22c3-498e-b9ba-b49152270221" name="Default Changelist" comment="1.去除命名空间处理 2.规范代码格式">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/utils/XmlSAXUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/XmlSAXUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/XmlToJson" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -30,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dwLrlNE5wUb2uP8V8B7ZFcj7lm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -145,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593331409149</updated>
       <workItem from="1593331412818" duration="3972000" />
-      <workItem from="1603348413244" duration="1153000" />
+      <workItem from="1603348413244" duration="3608000" />
     </task>
     <task id="LOCAL-00001" summary="1.去除命名空间处理 2.规范代码格式">
       <created>1593335486416</created>
