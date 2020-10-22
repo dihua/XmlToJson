@@ -41,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -52,6 +53,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEAProject\XmlToJson" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\IDEAProject\XmlToJson\src\test\resources\xml" />
     </key>
@@ -150,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593331409149</updated>
       <workItem from="1593331412818" duration="3972000" />
-      <workItem from="1603348413244" duration="3608000" />
+      <workItem from="1603348413244" duration="3868000" />
     </task>
     <task id="LOCAL-00001" summary="1.去除命名空间处理 2.规范代码格式">
       <created>1593335486416</created>
